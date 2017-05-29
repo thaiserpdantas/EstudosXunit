@@ -1,0 +1,1 @@
+C:\Users\tdantas\Projects\xUnit\CalculadoraTest\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
